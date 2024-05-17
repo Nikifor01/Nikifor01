@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">Hi there, My name <b>Nikifor</b>, doing linear algebra, statistics hence more than familiar with ML </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">ML 🇷🇺</h2>
+
 <!--
 **Nikifor01/Nikifor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
