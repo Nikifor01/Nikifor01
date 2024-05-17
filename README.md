@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, My name <b>Nikifor</b>, doing linear algebra, statistics hence more than familiar with ML </a> 
+<h1 align="center">Hi there, My name <b>Nikifor</b>, hard on linear algebra and statistics hence more than familiar with ML widely, but may be not enough...</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>
   ghbdtn
